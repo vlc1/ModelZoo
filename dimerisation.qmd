@@ -1,0 +1,18 @@
+---
+title: "Dimerisation"
+format: 
+  pdf: 
+    include-in-header: 
+      text: |
+        \usepackage{amssymb}
+---
+
+$$
+2X \rightleftarrows X_2
+$$
+$$
+\left \{ \begin{aligned}
+\dot{X} \left ( t \right ) & = -k _ \mathrm{b} X \left ( t \right ) ^ 2 + 2 k _ d X _ 2 \left ( t \right ), \\
+\dot{X _ 2} \left ( t \right ) & = \frac{1}{2} k _ \mathrm{b} X \left ( t \right ) ^ 2 - k _ d X _ 2 \left ( t \right ).
+\end{aligned} \right .
+$$

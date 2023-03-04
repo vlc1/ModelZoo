@@ -1,0 +1,15 @@
+---
+title: "Birth-death model"
+format: 
+  pdf: 
+    include-in-header: 
+      text: |
+        \usepackage{amssymb}
+---
+
+$$
+\varnothing \rightleftarrows X
+$$
+$$
+\dot{X} \left ( t \right ) = b - d X \left ( t \right ).
+$$
